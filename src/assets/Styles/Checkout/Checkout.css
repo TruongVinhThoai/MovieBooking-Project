@@ -1,0 +1,36 @@
+/* Ghe thuong */
+.ghe {
+  width: 35px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px;
+  background-color: rgb(122, 122, 122);
+  color: white;
+}
+
+/* Ghe da dat */
+.gheDaDat {
+  background-color: rgb(231, 20, 20);
+  cursor: no-drop;
+}
+
+/* Ghe dang dat */
+.gheDangDat {
+  background-color: rgb(18, 176, 18) !important;
+}
+
+/* Ghe vip */
+.gheVip {
+  background-color: rgb(228, 74, 8);
+}
+
+/* Ghe duoc chinh minh dat */
+.gheDaDuocDat {
+  background-color: bisque;
+  -webkit-box-shadow: -1px 2px 18px -6px orange;
+  box-shadow: -1px 2px 18px -6px orange;
+  color: orange !important;
+  border: 1px solid orange;
+}
